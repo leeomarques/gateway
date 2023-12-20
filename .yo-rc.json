@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "authenticationType": "oauth2",
+    "baseName": "gateway",
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "angular",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1702613187459,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "devServerPort": 4200,
+    "enableGradleEnterprise": null,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entities": ["Categoria", "Orcamento", "Transacao"],
+    "feignClient": false,
+    "gradleEnterpriseHost": null,
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "MzhhZDU4Nzc3NTU5OTYyYmY3MDFjZjI5MzkxYzIwMWVkYzlmODRjMTE4ZmYxMDc5YWYzMDUwMzc0NjVmMzFiMDcyODc1MzBhY2MwN2E0NjFkOTMwNDZkYTU5N2ViOTk2MGQwMDcwYjYzNGE0OWFjYzMyMTYwNjI4MjUxM2RiMmQ=",
+    "languages": ["pt-br", "en", "es"],
+    "messageBroker": false,
+    "microfrontend": true,
+    "microfrontends": [
+      {
+        "baseName": "mFont1"
+      },
+      {
+        "baseName": "mFont2"
+      }
+    ],
+    "nativeLanguage": "pt-br",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "no",
+    "reactive": true,
+    "searchEngine": false,
+    "serverPort": "8085",
+    "serverSideOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "skipUserManagement": true,
+    "testFrameworks": [],
+    "websocket": false,
+    "withAdminUi": true
+  }
+}

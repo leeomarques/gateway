@@ -6,7 +6,7 @@
         "refreshListLabel": "Atualizar lista",
         "createLabel": "Criar novo Categoria",
         "createOrEditLabel": "Criar ou editar Categoria",
-        "notFound": "Nenhum Categoria encontrado"
+        "notFound": "Nenhuma Categoria encontrada"
       },
       "delete": {
         "question": "Tem certeza de que deseja excluir Categoria {{ id }}?"

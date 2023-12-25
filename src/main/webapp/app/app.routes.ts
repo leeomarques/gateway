@@ -10,7 +10,7 @@ import { loadEntityRoutes } from './core/microfrontend';
 
 const routes: Routes = [
   {
-    path: '',
+    path: 'home',
     component: HomeComponent,
     title: 'home.title',
   },
